@@ -2176,7 +2176,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url(https://ibb.co/H7pD43q);
+		background-image: url("../../images/header.JPG");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2185,6 +2185,7 @@ input, select, textarea {
 		padding: 7.5em 0 2em 0;
 		cursor: default;
 	}
+
 
 		#header:before {
 			content: '';
